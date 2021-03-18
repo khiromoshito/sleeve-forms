@@ -36,7 +36,7 @@ form.setElement(document.getElementById("myform"));
 form.setFields({
   email: document.getElementById("email-field"),
   password: document.getElementById("password-field"),
-};
+});
 
 
 // An onChange listener can then be set. This listener is fired when one of the 
