@@ -180,12 +180,3 @@ function Form() {
 
 }
 
-
-
-
-
-
-
-
-
-var Validator = {};
