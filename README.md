@@ -14,7 +14,7 @@ This should be added at the head section of the webpage for initializing classes
 </head>
 ```
 
-Below is an example of implementing the framework.
+Below is an example of implementing the library...
 
 ```js
 // JavaScript
