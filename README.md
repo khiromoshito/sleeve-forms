@@ -60,10 +60,10 @@ form.onChange = (isValid, fields) {
 
 
 // You can also manually set rules for every fields (for the ones that are not specified, 
-// these all will default to FieldRules.notEmptyNorSpace
+// these all will default to FieldRules.notEmptyNorSpace).
 
 // These rules are basically string that contains regular expressions
-// which are then converted to RegExp in the validation process
+// which are then converted to RegExp in the validation process.
 
 // sleeve-forms provides preset references for rules, all under the [FieldRules] object.
 
