@@ -45,7 +45,7 @@ form.setFields({
 // The onChange method has two parameters:
 // (0) isValid - a boolean that asserts if all input field values are valid (follows rules)
 // (1) fields - an object with a key-value pair (fieldName-FormField object) that represents
-//   the FormField object corresponsding to the given fieldName
+//   the FormField object corresponding to the given fieldName
 form.onChange = (isValid, fields) {
   // Below logs the value of the 'email' field
   console.log(fields["email"].value);
